@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Mobile phone",
+        "price": 20000,
+        "company": "Redmi"
+    },
+    {
+        "name": "Fridge",
+        "price": 50000,
+        "company": "LG"
+    },
+    {
+        "name": "Headphones",
+        "price": 2000,
+        "company": "Boat"
+    },
+    {
+        "name": "Laptop",
+        "price": 40000,
+        "company": "Dell"
+    }
+]
